@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "D:/智能预约系统/cursor/backend",
+    "D:/智能预约系统/cursor/backend/.venv/Lib/site-packages"
+  ],
+  "venvPath": "D:/智能预约系统/cursor/backend",
+  "venv": ".venv",
+  "pythonVersion": "3.13"
+}

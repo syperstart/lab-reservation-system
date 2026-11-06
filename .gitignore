@@ -1,0 +1,31 @@
+# ===== 编辑器 / IDE（本地配置，不上传）=====
+.idea/
+.vscode/
+*.iml
+
+# ===== 本地工具 / 记忆 =====
+.workbuddy/
+chroma_ascii_test2/
+
+# ===== 依赖与构建产物 =====
+.venv/
+venv/
+node_modules/
+dist/
+dist-ssr/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ===== 环境变量（含密钥，绝不上传）=====
+.env
+.env.*
+
+# ===== 上传的文件（本地存储）=====
+uploads/
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
